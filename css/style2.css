@@ -46,7 +46,7 @@ button {
 }
  
 button:hover { 
-	background-color: #45a049; 
+	background-color: #000000; 
 }
  
 .expense-table { 
@@ -80,5 +80,10 @@ tbody td {
 .total-amount { 
 	padding: 10px; 
 	text-align: right; 
-	background-color: #f2f2f2; 
+	background-color: #ff0000; 
+}
+
+#total-amount {
+	color: #4caf50;
+	font: 900px;
 }
